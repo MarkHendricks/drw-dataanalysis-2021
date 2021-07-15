@@ -133,3 +133,6 @@ dmypy.json
 
 # MacOS directory file
 .DS_Store
+
+# PyCharm Settings
+.idea/
